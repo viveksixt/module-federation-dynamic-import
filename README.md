@@ -1,9 +1,9 @@
-# Basic One-Way Example
+# Basic One-Way Example (modified ex from module-federation/examples)
 
 This example demos a basic host application loading remote component.
 
-- `app1` is the host application.
-- `app2` standalone application which exposes `Button` component.
+- `batman` is the host application.
+- `jocker` standalone application which exposes `Button` component.
 
 # Running Demo
 
