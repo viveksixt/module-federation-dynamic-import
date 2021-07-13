@@ -3,11 +3,11 @@
 This example demos a basic host application loading remote component.
 
 - `batman` is the host application.
-- `jocker` standalone application which exposes `Button` component.
+- `joker` standalone application which exposes `Button` component.
 
 # Running Demo
 
-Run `yarn start`. This will build and serve both `app1` and `app2` on ports 3001 and 3002 respectively.
+Run `yarn start`. This will build and serve both `batman` and `joker` on ports 3001 and 3002 respectively.
 
 - [localhost:3001](http://localhost:3001/) (HOST)
 - [localhost:3002](http://localhost:3002/) (STANDALONE REMOTE)
